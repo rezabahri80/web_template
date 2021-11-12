@@ -1,0 +1,842 @@
+@media only screen and (min-width: 1200px) {
+    body > main > section:nth-of-type(6) {
+        width: 100%;
+        height: 700px;
+        background: url("../images/parallax-2.png") no-repeat fixed center center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(6)::before {
+        content: "";
+        width: inherit;
+        height: inherit;
+        background-color: black;
+        opacity: 0.6;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 {
+        z-index: 1;
+        text-transform: uppercase;
+        font-size: 48px;
+        color: white;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) {
+        width: 100%;
+        height: 580px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section {
+        width: 22%;
+        height: 420px;
+        margin-left: 20px;
+        position: relative;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 {
+        width: 100%;
+        height: 40px;
+        background-color: #35312e;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        display: flex;
+        flex-flow: row wrap;
+        color: white;
+        text-transform: uppercase;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 {
+        background-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 > p:nth-of-type(2) {
+        background-color: #86c3dd;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(1) {
+        line-height: 40px;
+        margin-left: 8px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(2) {
+        line-height: 40px;
+        background-color: gray;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 46.4px;
+        text-align: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section {
+        width: 90%;
+        height: 340px;
+        background-color: gray;
+        position: absolute;
+        margin-top: -34px;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section {
+        width: 50px;
+        height: 50px;
+        border: 2px solid white;
+        margin-right: 3px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 65px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) {
+        width: 165px;
+        height: 50px;
+        border: 2px solid white;
+        margin-top: -60px;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:hover {
+        background-color: #00a2e8;
+        border: none;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) > h1 {
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-left: 10px;
+        color: white;
+
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    body > main > section:nth-of-type(6) {
+        width: 100%;
+        height: 700px;
+        background: url("../images/parallax-2.png") no-repeat fixed center center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(6)::before {
+        content: "";
+        width: inherit;
+        height: inherit;
+        background-color: black;
+        opacity: 0.6;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 {
+        z-index: 1;
+        text-transform: uppercase;
+        font-size: 48px;
+        color: white;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) {
+        width: 100%;
+        height: 580px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section {
+        width: 24%;
+        height: 420px;
+        margin-left: 20px;
+        position: relative;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 {
+        width: 100%;
+        height: 40px;
+        background-color: #35312e;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        display: flex;
+        flex-flow: row wrap;
+        color: white;
+        text-transform: uppercase;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 {
+        background-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 > p:nth-of-type(2) {
+        background-color: #86c3dd;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(1) {
+        line-height: 40px;
+        margin-left: 8px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(2) {
+        line-height: 40px;
+        background-color: gray;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 46.4px;
+        text-align: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section {
+        width: 90%;
+        height: 340px;
+        background-color: gray;
+        position: absolute;
+        margin-top: -34px;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section {
+        width: 50px;
+        height: 50px;
+        border: 2px solid white;
+        margin-right: 3px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 65px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) {
+        width: 165px;
+        height: 50px;
+        border: 2px solid white;
+        margin-top: -60px;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:hover {
+        background-color: #00a2e8;
+        border: none;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) > h1 {
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-left: 10px;
+        color: white;
+
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    body > main > section:nth-of-type(6) {
+        width: 100%;
+        height: 1000px;
+        background: url("../images/parallax-2.png") no-repeat fixed center center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(6)::before {
+        content: "";
+        width: inherit;
+        height: inherit;
+        background-color: black;
+        opacity: 0.6;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 {
+        z-index: 1;
+        text-transform: uppercase;
+        font-size: 48px;
+        color: white;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) {
+        width: 100%;
+        height: 580px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section {
+        width: 40%;
+        height: 420px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        position: relative;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 {
+        width: 100%;
+        height: 40px;
+        background-color: #35312e;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        display: flex;
+        flex-flow: row wrap;
+        color: white;
+        text-transform: uppercase;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 {
+        background-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 > p:nth-of-type(2) {
+        background-color: #86c3dd;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(1) {
+        line-height: 40px;
+        margin-left: 8px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(2) {
+        line-height: 40px;
+        background-color: gray;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 46.4px;
+        text-align: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section {
+        width: 90%;
+        height: 340px;
+        background-color: gray;
+        position: absolute;
+        margin-top: -34px;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section {
+        width: 52px;
+        height: 52px;
+        border: 2px solid white;
+        margin-right: 3px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 65px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) {
+        width: 165px;
+        height: 50px;
+        border: 2px solid white;
+        margin-top: -60px;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:hover {
+        background-color: #00a2e8;
+        border: none;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) > h1 {
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-left: 10px;
+        color: white;
+
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    body > main > section:nth-of-type(6) {
+        width: 100%;
+        height: 1200px;
+        background: url("../images/parallax-2.png") no-repeat fixed center center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(6)::before {
+        content: "";
+        width: inherit;
+        height: inherit;
+        background-color: black;
+        opacity: 0.6;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 {
+        z-index: 1;
+        text-transform: uppercase;
+        font-size: 48px;
+        color: white;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) {
+        width: 100%;
+        height: 580px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section {
+        width: 48%;
+        height: 320px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        position: relative;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 {
+        width: 100%;
+        height: 40px;
+        background-color: #35312e;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        display: flex;
+        flex-flow: row wrap;
+        color: white;
+        text-transform: uppercase;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 {
+        background-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 > p:nth-of-type(2) {
+        background-color: #86c3dd;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(1) {
+        line-height: 40px;
+        margin-left: 8px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(2) {
+        line-height: 40px;
+        background-color: gray;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 46.4px;
+        text-align: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section {
+        width: 90%;
+        height: 240px;
+        background-color: gray;
+        position: absolute;
+        margin-top: -34px;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section {
+        width: 52px;
+        height: 52px;
+        border: 2px solid white;
+        margin-right: 3px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 65px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) {
+        width: 165px;
+        height: 50px;
+        border: 2px solid white;
+        margin-top: -60px;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:hover {
+        background-color: #00a2e8;
+        border: none;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) > h1 {
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-left: 10px;
+        color: white;
+
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    body > main > section:nth-of-type(6) {
+        width: 100%;
+        height: 1200px;
+        background: url("../images/parallax-2.png") no-repeat fixed center center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(6)::before {
+        content: "";
+        width: inherit;
+        height: inherit;
+        background-color: black;
+        opacity: 0.6;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 {
+        z-index: 1;
+        text-transform: uppercase;
+        font-size: 48px;
+        color: white;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) {
+        width: 100%;
+        height: 580px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section {
+        width: 48%;
+        height: 320px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        position: relative;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 {
+        width: 100%;
+        height: 40px;
+        background-color: #35312e;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        display: flex;
+        flex-flow: row wrap;
+        color: white;
+        text-transform: uppercase;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 {
+        background-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > h1 > p:nth-of-type(2) {
+        background-color: #86c3dd;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(1) {
+        line-height: 40px;
+        margin-left: 8px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > h1 > p:nth-of-type(2) {
+        line-height: 40px;
+        background-color: gray;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 46.4px;
+        text-align: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section {
+        width: 90%;
+        height: 240px;
+        background-color: gray;
+        position: absolute;
+        margin-top: -34px;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section:hover > section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section {
+        width: 52px;
+        height: 52px;
+        border: 2px solid white;
+        margin-right: 3px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 65px;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) {
+        width: 165px;
+        height: 50px;
+        border: 2px solid white;
+        margin-top: -60px;
+
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:hover {
+        background-color: #00a2e8;
+        border: none;
+
+    }
+
+    body > main > section:nth-of-type(6) > section:nth-of-type(2) > section > section > section:nth-of-type(4) > h1 {
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-left: 10px;
+        color: white;
+
+    }
+}

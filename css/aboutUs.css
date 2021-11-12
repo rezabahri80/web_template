@@ -1,0 +1,449 @@
+@media only screen and (min-width: 1200px) {
+    body > main > section:nth-of-type(3) {
+        background-color: white;
+        width: 100%;
+        height: 580px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) {
+        width: 100%;
+        height: 220px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        font-size: 36px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) {
+        width: 100%;
+        height: 360px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section {
+        width: 20%;
+        height: 340px;
+        margin-left: 10px;
+        text-align: center;
+        padding: 10px;
+        box-sizing: border-box;
+        transition: 700ms;
+        border-radius: 20px;
+        border: 2px solid white;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section:hover {
+        border: 2px solid #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > img {
+        margin-bottom: 40px;
+        height: 66px;
+        width: 66px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1 {
+        text-transform: uppercase;
+        font-size: 18px;
+        margin-bottom: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p {
+        text-align: center;
+        font-size: 14px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p:hover {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    body > main > section:nth-of-type(3) {
+        background-color: white;
+        width: 100%;
+        height: 580px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) {
+        width: 100%;
+        height: 220px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        font-size: 36px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) {
+        width: 100%;
+        height: 360px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section {
+        width: 20%;
+        height: 340px;
+        margin-left: 10px;
+        text-align: center;
+        padding: 10px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section:hover {
+        border: 2px solid #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > img {
+        margin-bottom: 40px;
+        height: 66px;
+        width: 66px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1 {
+        text-transform: uppercase;
+        font-size: 18px;
+        margin-bottom: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p {
+        text-align: center;
+        font-size: 14px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p:hover {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    body > main > section:nth-of-type(3) {
+        background-color: white;
+        width: 100%;
+        height: 900px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) {
+        width: 100%;
+        height: 220px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        font-size: 36px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) {
+        width: 100%;
+        height: 360px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section {
+        width: 40%;
+        height: 340px;
+        margin-left: 10px;
+        text-align: center;
+        padding: 10px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section:hover {
+        border: 2px solid #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > img {
+        margin-bottom: 40px;
+        height: 66px;
+        width: 66px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1 {
+        text-transform: uppercase;
+        font-size: 18px;
+        margin-bottom: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p {
+        text-align: center;
+        font-size: 14px;
+        transition: 700ms;
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p:hover {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    body > main > section:nth-of-type(3) {
+        background-color: white;
+        width: 100%;
+        height: 900px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) {
+        width: 100%;
+        height: 220px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        font-size: 36px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) {
+        width: 100%;
+        height: 360px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section {
+        width: 40%;
+        height: 340px;
+        margin-left: 10px;
+        text-align: center;
+        padding: 10px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section:hover {
+        border: 2px solid #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > img {
+        margin-bottom: 40px;
+        height: 66px;
+        width: 66px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1 {
+        text-transform: uppercase;
+        font-size: 18px;
+        margin-bottom: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p {
+        text-align: center;
+        font-size: 14px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p:hover {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    body > main > section:nth-of-type(3) {
+        background-color: white;
+        width: 100%;
+        height: 1600px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) {
+        width: 100%;
+        height: 220px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        font-size: 36px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) {
+        width: 100%;
+        height: 360px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section {
+        width: 80%;
+        height: 340px;
+        margin-left: 10px;
+        text-align: center;
+        padding: 10px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+        margin-bottom: 4px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section:hover {
+        border: 2px solid #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > img {
+        margin-bottom: 40px;
+        height: 66px;
+        width: 66px;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1 {
+        text-transform: uppercase;
+        font-size: 18px;
+        margin-bottom: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p {
+        text-align: center;
+        font-size: 14px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > h1:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(3) > section:nth-of-type(2) > section > p:hover {
+        color: #00a2e8;
+
+    }
+}

@@ -1,0 +1,1474 @@
+@media only screen and (min-width: 1200px) {
+    body > main > section:nth-of-type(1) {
+        width: 100%;
+        height: 140px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 40%;
+        height: inherit;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div {
+        margin-left: 30px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span {
+        text-transform: capitalize;
+        font-weight: normal;
+        font-size: 14px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a {
+        text-decoration: none;
+        color: white;
+        transition: 700ms;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a {
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a > p {
+        color: white;
+        font-size: 14px;
+        transition: 700ms;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 8px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a > p:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 60%;
+        height: inherit;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div {
+        margin-left: 30px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span {
+        text-transform: capitalize;
+        color: white;
+        font-weight: normal;
+        font-size: 14px;
+        font-family: Arial;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a{
+        text-decoration: none;
+        color: white;
+        transition: 700ms;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 8px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a:hover{
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a > p {
+        color: white;
+        font-size: 14px;
+        transition: 700ms;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 8px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a > p:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(5) {
+        margin-right: -25px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 100%;
+        height: 90px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1) {
+        width: 25%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1)>a {
+        display: block;
+        width: inherit;
+        height: 90px;
+        line-height: 90px;
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) {
+        width: 50%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav {
+        width: 100%;
+        height: 90px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul {
+        width: 100%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li {
+        width: 16%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        position: relative;
+        align-items: center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 90px;
+        text-transform: uppercase;
+        color: black;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a::after {
+        position: absolute;
+        display: block;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        transform: scale(0, 0);
+        content: "";
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover::after {
+        animation: menuBottomAnimation 800ms 1 linear;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) {
+        width: 25%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div {
+        margin-left: 30px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > span {
+        text-transform: uppercase;
+        color: black;
+        font-size: 14px;
+        font-weight: bold;
+        transition: 400ms;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 8px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > p {
+        color: black;
+        font-size: 22px;
+        transition: 400ms;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 8px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > p {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    body > main > section:nth-of-type(1) {
+        width: 100%;
+        height: 140px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 40%;
+        height: inherit;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div {
+        margin-left: 30px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span {
+        text-transform: capitalize;
+        font-weight: normal;
+        font-size: 14px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a {
+        color: white;
+        text-decoration: none;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a {
+        color: white;
+        text-decoration: none;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a:hover >p {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a > p {
+        color: white;
+        font-size: 14px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 60%;
+        height: inherit;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div {
+        margin-left: 30px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span {
+        text-transform: capitalize;
+        font-weight: normal;
+        font-size: 14px;
+        font-family: Arial;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a{
+        color: white;
+        text-decoration: none;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a:hover{
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a {
+        color: white;
+        text-decoration: none;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a > p {
+        font-size: 14px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a:hover > p {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(5) {
+        margin-right: -25px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 100%;
+        height: 90px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1) {
+        width: 25%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1)>a {
+        display: block;
+        width: inherit;
+        height: 90px;
+        line-height: 90px;
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) {
+        width: 50%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav {
+        width: 100%;
+        height: 90px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul {
+        width: 100%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li {
+        width: 16%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 90px;
+        text-transform: uppercase;
+        color: black;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a::after {
+        position: absolute;
+        display: block;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        transform: scale(0, 0);
+        content: "";
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover::after {
+        animation: menuBottomAnimation 800ms 1 linear;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) {
+        width: 25%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div {
+        margin-left: 30px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > span {
+        text-transform: uppercase;
+        color: black;
+        font-size: 14px;
+        font-weight: bold;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > p {
+        color: black;
+        font-size: 22px;
+        transition: 400ms;
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > p {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    body > main > section:nth-of-type(1) {
+        width: 100%;
+        height: 140px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 40%;
+        height: inherit;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div {
+        margin-left: 10px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a {
+        text-transform: capitalize;
+        color: white;
+        font-weight: normal;
+        font-size: 12px;
+        text-decoration: none;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a {
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a > p {
+        color: white;
+        font-size: 12px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a:hover > p {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 60%;
+        height: inherit;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div {
+        margin-left: 20px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a {
+        text-transform: capitalize;
+        color: white;
+        font-weight: normal;
+        font-size: 12px;
+        text-decoration: none;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a > p {
+        color: white;
+        font-size: 12px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a:hover > p {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(5) {
+        margin-right: -15px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 100%;
+        height: 90px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1) {
+        width: 20%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1)>a {
+        display: block;
+        width: inherit;
+        height: 90px;
+        line-height: 90px;
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) {
+        width: 60%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav {
+        width: 100%;
+        height: 90px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul {
+        width: 100%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li {
+        width: 16%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        font-size: 11px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 90px;
+        text-transform: uppercase;
+        color: black;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a::after {
+        position: absolute;
+        display: block;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        transform: scale(0, 0);
+        content: "";
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover::after {
+        animation: menuBottomAnimation 800ms 1 linear;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) {
+        width: 20%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div {
+        margin-left: 10px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > span {
+        text-transform: uppercase;
+        color: black;
+        font-size: 12px;
+        font-weight: bold;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > p {
+        color: black;
+        font-size: 20px;
+        transition: 400ms;
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > p {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    body > main > section:nth-of-type(1) {
+        width: 100%;
+        height: 100px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 100%;
+        height: 50px;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div {
+        width: 25%;
+        height: 50px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) {
+        justify-content: flex-end;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(3) {
+        justify-content: flex-end;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a {
+        text-transform: capitalize;
+        color: white;
+        font-weight: normal;
+        font-size: 12px;
+        margin-left: -50px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a {
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a > p {
+        color: white;
+        font-size: 12px;
+        margin-right: 70px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a:hover > p {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 100%;
+        height: 50px;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div {
+        margin-left: 20px;
+        width: 12%;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a {
+        text-transform: capitalize;
+        color: white;
+        font-weight: normal;
+        font-size: 12px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        text-decoration: none;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a > p {
+        color: white;
+        font-size: 12px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        text-decoration: none;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a:hover > p {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(5) {
+        margin-right: -75px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 100%;
+        height: 150px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1) {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1)>a {
+        display: block;
+        width: inherit;
+        height: 90px;
+        line-height: 90px;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1) > img {
+        transform: scale(1.7, 1.4);
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) {
+        width: 80%;
+        height: 50px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav {
+        width: 100%;
+        height: 50px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul {
+        width: 100%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li {
+        width: 16%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        font-size: 11px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 50px;
+        text-transform: uppercase;
+        color: black;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a::after {
+        position: absolute;
+        display: block;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        transform: scale(0, 0);
+        content: "";
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover::after {
+        animation: menuBottomAnimation 800ms 1 linear;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) {
+        width: 20%;
+        height: 50px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div {
+        margin-left: 8px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > span {
+        text-transform: uppercase;
+        color: black;
+        font-size: 11px;
+        font-weight: bold;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > p {
+        color: black;
+        font-size: 18px;
+        transition: 400ms;
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > p {
+        color: #00a2e8;
+
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    body > main > section:nth-of-type(1) {
+        width: 100%;
+        height: 100px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) {
+        width: 100%;
+        height: 100px;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div {
+        width: 100%;
+        height: 24px;
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: flex-start;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) {
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin-left: -90px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) {
+        margin-top: -48px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(3) {
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        margin-left: -90px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(4) {
+        margin-top: -48px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a {
+        text-transform: capitalize;
+        color: white;
+        font-weight: normal;
+        font-size: 12px;
+        margin-left: -50px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        text-decoration: none;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a {
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a > p {
+        color: white;
+        font-size: 12px;
+        margin-right: 70px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div > a:hover > p {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 100%;
+        height: 50px;
+        background-color: #00a2e8;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div {
+        margin-left: 20px;
+        width: 12%;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a {
+        text-transform: capitalize;
+        color: white;
+        font-weight: normal;
+        font-size: 11px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        text-decoration: none;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > span > a:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a {
+        text-decoration: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a > p {
+        color: white;
+        font-size: 11px;
+        display: block;
+        width: inherit;
+        height: 50px;
+        line-height: 50px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div > a > p:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(5) {
+        margin-right: -60px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) {
+        width: 100%;
+        height: 150px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1) {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        margin-top: 50px;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1)>a {
+        display: block;
+        width: inherit;
+        height: 90px;
+        line-height: 90px;
+        text-decoration: none;
+        text-align: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(1) > img {
+        transform: scale(1.3, 1);
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-flow: row wrap;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav {
+        width: 100%;
+        height: 50px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul {
+        width: 100%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li {
+        width: 30%;
+        height: inherit;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+        font-size: 11px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 50px;
+        text-transform: uppercase;
+        color: black;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a::after {
+        position: absolute;
+        display: block;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        transform: scale(0, 0);
+        content: "";
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(2) > nav > ul > li > a:hover::after {
+        animation: menuBottomAnimation 800ms 1 linear;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div {
+        margin-left: 8px;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > span {
+        text-transform: uppercase;
+        color: black;
+        font-size: 11px;
+        font-weight: bold;
+        transition: 400ms;
+
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div > p {
+        color: black;
+        font-size: 18px;
+        transition: 400ms;
+    }
+
+    body > main > section:nth-of-type(1) > section:nth-of-type(2) > section:nth-of-type(3) > div:hover > p {
+        color: #00a2e8;
+
+    }
+}

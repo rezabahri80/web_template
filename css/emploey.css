@@ -1,0 +1,798 @@
+@media only screen and (min-width: 1200px) {
+    body > main > section:nth-of-type(7) {
+        width: 100%;
+        height: 800px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        color: #56504d;
+        font-size: 48px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) {
+        width: 100%;
+        height: 680px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section {
+        width: 30%;
+        height: 480px;
+        margin-left: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section:hover {
+        border-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1) {
+        width: 170px;
+        height: 170px;
+        background-color: gray;
+        border-radius: 50%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section {
+        width: 150px;
+        height: 150px;
+        background-color: black;
+        opacity: 0.4;
+        border-radius: 50%;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1):hover>section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i {
+        color: #00a2e8;
+        font-size: 92px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i:hover {
+        color: white;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) {
+        width: 100%;
+        height: 240px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p {
+        color: gray;
+        text-align: center;
+        font-size: 18px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) {
+        text-transform: uppercase;
+        margin-top: 50px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span {
+        color: #00a2e8;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #00a2e8;
+        border: 2px solid black;
+        margin-left: 2px;
+
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div:nth-of-type(5) {
+        background-color: white;
+
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    body > main > section:nth-of-type(7) {
+        width: 100%;
+        height: 800px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        color: #56504d;
+        font-size: 48px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) {
+        width: 100%;
+        height: 680px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section {
+        width: 30%;
+        height: 480px;
+        margin-left: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section:hover {
+        border-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1) {
+        width: 170px;
+        height: 170px;
+        background-color: gray;
+        border-radius: 50%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section {
+        width: 150px;
+        height: 150px;
+        background-color: black;
+        opacity: 0.4;
+        border-radius: 50%;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1):hover>section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i {
+        color: #00a2e8;
+        font-size: 92px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i:hover {
+        color: white;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) {
+        width: 100%;
+        height: 240px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p {
+        color: gray;
+        text-align: center;
+        font-size: 17px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) {
+        text-transform: uppercase;
+        margin-top: 40px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span {
+        color: #00a2e8;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #00a2e8;
+        border: 2px solid black;
+        margin-left: 2px;
+
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div:nth-of-type(5) {
+        background-color: white;
+
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    body > main > section:nth-of-type(7) {
+        width: 100%;
+        height: 1300px;
+        background-color: green;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        color: #56504d;
+        font-size: 48px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) {
+        width: 100%;
+        height: 1200px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section {
+        width: 45%;
+        height: 480px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section:hover {
+        border-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1) {
+        width: 170px;
+        height: 170px;
+        background-color: gray;
+        border-radius: 50%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section {
+        width: 150px;
+        height: 150px;
+        background-color: black;
+        opacity: 0.4;
+        border-radius: 50%;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1):hover>section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i {
+        color: #00a2e8;
+        font-size: 92px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i:hover {
+        color: white;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) {
+        width: 100%;
+        height: 240px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p {
+        color: gray;
+        text-align: center;
+        font-size: 17px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) {
+        text-transform: uppercase;
+        margin-top: 40px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span {
+        color: #00a2e8;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #00a2e8;
+        border: 2px solid black;
+        margin-left: 2px;
+
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div:nth-of-type(5) {
+        background-color: white;
+
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    body > main > section:nth-of-type(7) {
+        width: 100%;
+        height: 1610px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        color: #56504d;
+        font-size: 40px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) {
+        width: 100%;
+        height: 1500px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section {
+        width: 70%;
+        height: 480px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section:hover {
+        border-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1) {
+        width: 170px;
+        height: 170px;
+        background-color: gray;
+        border-radius: 50%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section {
+        width: 150px;
+        height: 150px;
+        background-color: black;
+        opacity: 0.4;
+        border-radius: 50%;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1):hover>section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i {
+        color: #00a2e8;
+        font-size: 92px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i:hover {
+        color: white;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) {
+        width: 100%;
+        height: 240px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p {
+        color: gray;
+        text-align: center;
+        font-size: 17px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) {
+        text-transform: uppercase;
+        margin-top: 40px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span {
+        color: #00a2e8;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #00a2e8;
+        border: 2px solid black;
+        margin-left: 2px;
+
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div:nth-of-type(5) {
+        background-color: white;
+
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    body > main > section:nth-of-type(7) {
+        width: 100%;
+        height: 1610px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) {
+        width: 100%;
+        height: 120px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 {
+        text-transform: uppercase;
+        color: #56504d;
+        font-size: 40px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(1) > h1 > span {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) {
+        width: 100%;
+        height: 1500px;
+        background-color: white;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section {
+        width: 70%;
+        height: 480px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+        border: 2px solid white;
+        border-radius: 20px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section:hover {
+        border-color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1) {
+        width: 170px;
+        height: 170px;
+        background-color: gray;
+        border-radius: 50%;
+        margin-bottom: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section {
+        width: 150px;
+        height: 150px;
+        background-color: black;
+        opacity: 0.4;
+        border-radius: 50%;
+        transform: scale(0, 0);
+        transition: 400ms;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1):hover>section {
+        transform: scale(1, 1);
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i {
+        color: #00a2e8;
+        font-size: 92px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(1)>section>i:hover {
+        color: white;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) {
+        width: 100%;
+        height: 240px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p {
+        color: gray;
+        text-align: center;
+        font-size: 17px;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:hover {
+        color: #00a2e8;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) {
+        text-transform: uppercase;
+        margin-top: 40px;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span {
+        color: #00a2e8;
+        transition: 700ms;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > section:nth-of-type(2) > p:nth-of-type(2) > span:hover {
+        color: black;
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #00a2e8;
+        border: 2px solid black;
+        margin-left: 2px;
+
+
+    }
+
+    body > main > section:nth-of-type(7) > section:nth-of-type(2) > section > div:nth-of-type(5) {
+        background-color: white;
+
+    }
+}
